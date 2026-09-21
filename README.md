@@ -2,7 +2,7 @@
 
 An interactive, single-page analytics dashboard built from a Zudio-style retail sales dataset (100 stores, 8 states, ~7,900 orders across FY2024). Built with vanilla JavaScript and Chart.js — no build step, no backend, just open `index.html`.
 
-**[Live demo →](file:///C:/Users/hp/Downloads/zudio-dashboard-repo/zudio-dashboard-repo/index.html)**
+**[Live demo →](https://claude.ai/artifact/D1WvTBERVwBrY44iWzztkt)**
 
 ## What it does
 
